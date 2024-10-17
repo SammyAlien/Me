@@ -92,7 +92,7 @@ h2 {
     line-height: 1.5;
 }
 g {
-    font-size: 0.75rem;
+    font-size: 0.8rem;
     line-height: 1.5;
     margin-bottom: 1rem;
     color: rgb(90, 0, 90);
@@ -175,4 +175,7 @@ T{
     text-align: center;
     width: 100%;
     height: 100%;
+}
+.pageMargin{
+    height: 1.25rem;
 }
